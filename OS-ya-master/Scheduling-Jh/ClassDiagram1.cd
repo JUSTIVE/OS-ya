@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scheduling_Jh.box">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Scheduling_Jh.box.MARGINS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>box.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BqACEAGASCERABCJAK6AIAiCiMB4EgAChHksUyCiAIQ=</HashCode>
+      <FileName>box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Component1">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.DoubleBufferedPanel">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DoubleBufferedPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.DropShadowPanel">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAQAIAAJgAAAAAAACAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DropShadowPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.FCFS">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAEAAAAA=</HashCode>
+      <FileName>FCFS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.HRN">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Scheduling_Jh.HRN.Process_HRN" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HRN.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Scheduling_Jh.HRN.Comparer_HRN" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HRN.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HRN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.main">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Scheduling_Jh.main.MARGINS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>main.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>hmbTASFAQGQBiBDNgCm4sAgCC9V4sBAChHwsRQiksos=</HashCode>
+      <FileName>main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Priority">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAEAAAAAAIABAgAAAACgAAAAIAAAAAA=</HashCode>
+      <FileName>Priority.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Process">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACMAAUAQAAQAEAAAAAIAAEBAEBAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Process.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Process_HRN">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Process.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Program">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.RR">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Comparer" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Scheduler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Scheduling_Jh.Scheduler">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAgAAAAAAAAAAAAAAAgCEAACIAABIAAAAQAA=</HashCode>
+      <FileName>Scheduler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.sidebar">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAQADCAwAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>sidebar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.SJF">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAACBAAAAAAAAAAA=</HashCode>
+      <FileName>SJF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.SRT">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SRT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Stamp">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAIAAAAIAAAAAgAIAAAAAkAAAAABAEAAAAAAA=</HashCode>
+      <FileName>Stamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Properties.Resources">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IYAQQgAAECQAAAAAAAABUAAAAQAAAQAAAAAAAAAgQIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduling_Jh.Properties.Settings">
+    <Position X="18.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>

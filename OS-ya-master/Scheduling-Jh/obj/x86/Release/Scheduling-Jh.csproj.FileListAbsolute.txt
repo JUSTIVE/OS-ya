@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\bin\Release\Scheduling-Jh.exe.manifest
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\bin\Release\Scheduling-Jh.application
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\bin\Release\Scheduling-Jh.exe
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\bin\Release\Scheduling-Jh.pdb
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling-Jh.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling_Jh.box.resources
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling_Jh.main.resources
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling_Jh.Properties.Resources.resources
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling_Jh.sidebar.resources
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling-Jh.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling-Jh.TrustInfo.xml
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling-Jh.exe.manifest
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling-Jh.application
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling-Jh.exe
+C:\Users\HOME\Desktop\OS-ya-master - Copy\OS-ya-master\Scheduling-Jh\obj\x86\Release\Scheduling-Jh.pdb
