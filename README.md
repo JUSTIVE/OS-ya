@@ -7,14 +7,14 @@ OS-ya is Single Thread CPU Simulator for Operating System class Term Project
 
 ### Algorithms
 
-FCFS					:first come first served
-Nonpreemptive Priority
+FCFS					:first come first served  
+Nonpreemptive Priority  
 Preemptive Priority
-SJF						:Short Job First
-SRT 					:Shortest Remaining First
-Round Robin
-HRN						:Highest Response Ratio Next
-
+SJF						:Short Job First  
+SRT 					:Shortest Remaining First  
+Round Robin  
+HRN						:Highest Response Ratio Next  
+  
 ### Visualizations
 Ghantt- Chart
 Pie Chart for CPU USAGE
