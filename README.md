@@ -16,12 +16,12 @@ Round Robin
 HRN						:Highest Response Ratio Next  
   
 ### Visualizations
-Ghantt- Chart
-Pie Chart for CPU USAGE
+Ghantt- Chart for Timeline  
+Pie Chart for CPU USAGE  
 
-Average Running Time
-Average Waiting Time
-Average Turn-around Time
+Average Running Time  
+Average Waiting Time  
+Average Turn-around Time  
 
 Step by Step Animation
 
