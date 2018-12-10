@@ -1,6 +1,6 @@
 # OS-ya
 
-OS-ya is Single Thread CPU Scheduling Simulator for Operating System class Term Project
+OS-ya is Single Thread CPU Scheduling Simulator for Operating System class Term Project  
 2015. KMS & SJH
 
 ## Features
